@@ -1,7 +1,7 @@
 # YouTube-K-pop-K-drama-Data-Analysis-Dashboard link:https://4a4z3nwz8pcc2mzfgfyias.streamlit.app/
 This project focuses on analyzing YouTube engagement trends for K-pop and K-drama content by scraping data directly from YouTube and building an interactive Streamlit dashboard.
 
-Project Workflow
+## Project Workflow
 
 -Web Scraping: YouTube search results scraped using Selenium or YouTube Data API.
 
@@ -9,7 +9,7 @@ Project Workflow
 
 -Streamlit Dashboard: Interactive dashboard to visualize trends, views, likes, and audience preferences.
 
- Key Features
+ ## Key Features
 -Top trending K-pop and K-drama videos
 
 -View & Like trends by keywords/titles
@@ -18,7 +18,7 @@ Project Workflow
 
 -Data filtering based on video category, duration, and more
 
-Tools & Libraries
+## Tools & Libraries
 Python
 
 -Selenium, BeautifulSoup – Web scraping
